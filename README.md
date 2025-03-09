@@ -11,7 +11,7 @@ conda activate pnc
 pip install -r requirements.txt
 ```
 
-# Content
+# Features
 ## PathPlanning
 
 - [ ] A star
